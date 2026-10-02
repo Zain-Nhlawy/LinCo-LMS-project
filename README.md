@@ -227,6 +227,7 @@ A full-featured Flutter Learning Management System combining online learning, em
 ---
 
 👨‍💻 Authors
+
 Zain Nhlawy
 
 Loulia Alshaar
